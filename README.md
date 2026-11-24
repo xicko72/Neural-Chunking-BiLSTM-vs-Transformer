@@ -86,12 +86,8 @@ Run all cells top to bottom. Training the two models takes a few minutes on a mo
 ├── nlp_chunking.ipynb     main notebook
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 ├── .gitignore
 └── data/
     └── chunk_dataset.txt  not tracked; place dataset here
 ```
 
-## License
-
-MIT. See `LICENSE`.
